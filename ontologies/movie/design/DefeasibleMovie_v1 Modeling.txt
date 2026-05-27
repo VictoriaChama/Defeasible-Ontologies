@@ -1,0 +1,252 @@
+****************************
+*  CORE CLASSES/ ENTITIES  *
+****************************
+
+AnimationTechnique
+	AdultAnimation
+	Anime
+	CGI
+	CGIAnimation
+	CGIMovieWith2DElements
+	HandDrawnAnimation
+	HandDrawnElements
+	StopMotion
+Budget
+	HighBudgetMovie
+	LowBudgetMovie
+		LowBudgetNolanMovie
+		VeryLowBudget
+	MidBudgetMovie
+DocumentaryStyle
+	BiasedDocumentary
+	Biographical
+	HistoricalAccurate
+	NatureDocumentary
+Genre
+	Action
+		FemaleProtagonistAction
+		MilitaryAction
+	Adventure
+	Animation
+	Comedy
+		DarkComedy
+		SatiricalComedy
+		Slapstick
+	Crime
+		Gangster
+		Heist
+	Documentary
+		TrueCrimeDocumentary
+	Drama
+		AmbiguousEndingDrama
+		HistoricalDrama
+		LegalDrama
+		RomanticDrama
+	Fantasy
+		DarkFantasy
+		HighFantasy
+		UrbanFantasy
+	Historical
+	Horror
+		BodyHorror
+		PsychologicalHorror
+		Slasher
+		SupernaturalHorror
+		ZombieHorror
+	Musical
+		BroadwayAdaptation
+		DarkMusical
+		JukeboxMusical
+		SatiricalDarkMusical
+			CultSatiricalDarkMusical
+	Mystery
+		Detective
+		FilmNoir
+		Whodunit
+	Romance
+		HistoricalRomance
+		TragicRomance
+	ScienceFiction
+		Cyberpunk
+		Dystopian
+		PresentDaySciFi
+		SpaceOpera
+	Thriller
+		PoliticalThriller
+		PsychologicalThriller
+	War
+		AntiWar
+		POWFilm
+	Western
+		EpicWestern
+		RevisionistWestern
+		SpaghettiWestern
+	HybridGenre
+		ActionComedy
+		ActionThriller
+		ComedyHorror
+		CrimeThriller
+		DramaThriller
+		RomanticComedy
+			BittersweetRomanticComedy
+		SciFiHorror
+Movie
+	Adult
+	AlienInvasion
+	ArtHouse
+	Biography
+		CreativeLibertyBiopic
+		SpirituallyAccurateBiopic
+	BlockbusterMovie
+		FestivalShowingBlockbusters
+	BoxOfficeFailureMovie
+		MajorStudioBoxOfficeFailure
+	BoxOfficeHitMovie
+	CastAgainstType
+	CastInTypicalRole
+	ChildrensFilm
+	CriticallyAcclaimedMovie
+		CriticallyAcclaimedMajorStudioFailure
+	CultClassicMovie
+	Experimental
+	GeneralAudience
+	HighBudgetIndie
+	HighBudgetLowCriticism
+	IndependentFilm
+		PassionProjectIndie
+	MajorStudioMovie
+	MartialArts
+	MatureFamily
+	Melodrama
+	Mockumentary
+	MovieRemake
+	NolanMovie
+	NonFiction
+	OriginBasedMovie
+		AfricanMovie
+		BollywoodMovie
+		EuropeanMovie
+		HollywoodMovie
+		JapaneseMovie
+		KoreanMovie
+		LatinAmericanMovie
+		MiddleEasternMovie
+		NollywoodMovie
+	OriginalMovie
+	PoorReceptionMovie
+	ProtagonistDiesMovie
+	Sequel
+		CriticallyAcclaimedSequel
+		GenreShiftSequel
+		RetroactivelyCriticizedSequel
+	Swashbuckler
+	Teen
+	WarEpic
+MovieEndingType
+	AntagonistWinsEnding
+	CliffhangerEnding
+	ProtagonistDiesEnding
+	ProtagonistSurvivesEnding
+	RedemptionEnding
+	ResolvedEnding
+	SacrificeEnding
+	VictoryOverEvilEnding
+	ViolentEnding
+MovieQuality
+	AggregateQuality
+	AudienceQuality
+	Better
+	BetterRemake
+		BetterRemakeWithControversy
+	EqualToOrHigherThanOriginal
+	HigherQuality
+	LowerQuality
+	SubjectiveQuality
+	Worse
+MovieRecognition
+	Award
+	AwardQuality
+	AwardWinningMovie
+	BAFTA
+	GoldenGlobe
+	Oscar
+MovieSetting
+	Future
+	MovieLocation
+		MovieFilmedInDifferentLocation
+		SameLocation
+		StandInLocation
+	OuterSpace
+	PresentDay
+MovieTrailer
+	MisleadingMovieTrailer
+		TwistPreservingMisleadingTrailer
+Person
+	Actor
+	ActorCastAgainstType
+		RoleRedefiningCastAgainstTypeActor
+	Actress
+	Critic
+	Director
+	FamousActor
+		FamousActorBoxOfficeFailure
+Rating
+	G
+	PG
+	PG-13
+	R
+Review
+	AcademicReview
+	AggregatorReview
+	BlogReview
+	CriticReview
+Studio
+	IndependentStudio
+		Indie
+	MajorStudio
+Tone
+	AccurateToneAndGenre
+	AmbiguousEnding
+	Bittersweet
+	BittersweetEnding
+	Dark
+	HappyCoupleTogether
+	IronicEnding
+	Lighthearted
+	MoralAmbiguity
+	MoralClarity
+	SupernaturalTone
+	TragicEnding
+	Upbeat
+
+
+****************************
+*  OBJECT PROPERTIES       *
+****************************
+
+
+
+****************************
+*    DATA PROPERTIES       *
+****************************
+
+
+
+****************************
+*        INDIVIDUALS       *
+****************************
+
+
+
+************************************
+*  LEVEL 1 DEFEASIBLE STATEMENTS   *
+************************************
+
+
+FINAL
+
+
+
+************************************
+*   OWL  DEFEASIBLE STATEMENTS     *
+************************************
